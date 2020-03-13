@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/SpotIM/BE-test/entities"
+	"github.com/eugeneradionov/BE-test/entities"
 )
 
 var TestData = []*entities.Msg{

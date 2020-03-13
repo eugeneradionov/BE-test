@@ -4,7 +4,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/SpotIM/BE-test/entities"
+	"github.com/eugeneradionov/BE-test/entities"
 )
 
 func TestNewTreeConcurrent(t *testing.T) {

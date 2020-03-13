@@ -1,6 +1,6 @@
 package tree
 
-import "github.com/SpotIM/BE-test/entities"
+import "github.com/eugeneradionov/BE-test/entities"
 
 type node struct {
 	ID       string
